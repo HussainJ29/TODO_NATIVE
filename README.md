@@ -72,10 +72,8 @@ TypeScript - JavaScript with type definitions.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 All sections and code snippets are included in a single Markdown shell for consistency.
-
-![img4](https://github.com/user-attachments/assets/334ddee5-67df-437b-a109-6b4fc0b8f2ea)
-![img3](https://github.com/user-attachments/assets/ab16f726-ab16-4f8e-a200-51ef11de6d3e)
-![img2](https://github.com/user-attachments/assets/11255b1c-322f-4fee-bf99-cb1ee8acbc0f)
-![img1](https://github.com/user-attachments/assets/a4725ae8-1039-4d37-9748-1b9401e795e1)
-![img5](https://github.com/user-attachments/assets/5144210a-6293-4c14-b007-2687ad34f783)
+![img3](https://github.com/user-attachments/assets/46d16854-5482-4a86-9f37-bc10e3e8f8d3)
+![img1](https://github.com/user-attachments/assets/674a231a-8f94-42b6-b01d-566b99995ed0)
+![img2](https://github.com/user-attachments/assets/c0e7ed1f-2161-4a45-ad69-de1c86496d49)
+![img4](https://github.com/user-attachments/assets/7efadde6-adac-4b85-ab5e-b2c24ec24d8b)
 
