@@ -1,2 +1,74 @@
-# TODO_NATIVE
-Todo Application using React Native 
+# TodoList App
+
+This is a React Native-based TodoList application built using Expo.
+
+## Prerequisites
+
+- **Node.js** (Recommended Version: 18+)
+- **npm** or **yarn**
+- **Expo CLI** (`npm install -g expo-cli`)
+
+## Getting Started
+
+```bash
+# 1. Clone the Repository
+git clone https://github.com/HussainJ29/TODO_NATIVE.git
+cd TODO_NATIVE
+
+# 2. Install Dependencies
+npm install
+
+# 3. Run the App
+
+# For Android
+npm run android
+
+# For iOS
+npm run ios
+
+# For Web
+npm run web
+
+## Getting Started
+todolist/
+│
+├── App.js                   # Main entry point of the application
+├── package.json             # Project dependencies and scripts
+├── node_modules/            # Auto-generated folder containing project dependencies
+└── ...
+
+Dependencies
+React - JavaScript library for building user interfaces.
+React Native - Framework for building native applications using React.
+Expo - A platform for universal React applications.
+React Native Paper - Material Design library for React Native.
+
+
+{
+  "dependencies": {
+    "expo": "~51.0.28",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-paper": "^5.12.5"
+  }
+}
+
+
+Dev Dependencies
+@babel/core - JavaScript compiler for transforming code.
+TypeScript - JavaScript with type definitions.
+@types/react - Type definitions for React.
+
+{
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.45",
+    "typescript": "^5.1.3"
+  }
+}
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+All sections and code snippets are included in a single Markdown shell for consistency.
